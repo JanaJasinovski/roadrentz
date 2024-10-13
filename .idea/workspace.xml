@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7de1b7d4-f703-41ca-a33c-fcb54e62c8fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/DaoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/RantDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/hibernate/HibernateContextualSessionsRantDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/hibernate/HibernateRantDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/hibernate/HibernateRantDaoUsingTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ibatis/IBatisRantDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ibatis/IBatisTemplateRantDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/jdbc/ConventionalJdbcRantDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/jdbc/IdentityStoredProcedure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/jdbc/JdbcRant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/jdbc/JdbcRantDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/jdbc/JdbcRantDaoWithSqlObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/jdbc/JdbcVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/jdbc/NamedParameterJdbcRantDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/jdbc/SimpleJdbcRantDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/jpa/JpaRantDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/jpa/PureJpaRantDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Motorist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/MotoristPrivilege.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Rant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejb/RantServiceEjb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marketing/MarketingMdb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marketing/MarketingMdp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marketing/MarketingMdp10_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marketing/MarketingMdp10_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marketing/MarketingReceiverGatewayImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marketing/MarketingReceiverGatewayImpl10_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marketing/MarketingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marketing/MotoristMessageConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marketing/RantzMarketingGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marketing/RantzMarketingGatewayImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marketing/RantzMarketingGatewayImpl10_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marketing/RantzMarketingGatewayImpl10_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/marketing/SpammedMotorist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/AddRantFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/DayForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/HomePageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/MotoristRegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/OldRantsForDayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/RantExcelView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/RantPdfView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/RantRssView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/RantValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/RantsForDayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/RantsForVehicleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/security/PasswordEncodingAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/DailyRantEmailJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/DailyRantEmailTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/MotoristAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/RantService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/RantServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/VehicleAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/mbean/ManagedCronTrigger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/mbean/ManagedRantService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/mbean/MyNotificationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/mbean/RantServiceRemoteMBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/struts/HomeAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/struts/RantsForVehicleAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/struts/VehicleForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tapestry/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tiles/HeaderTileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/LoggingAdvisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webwork/RantsForDayAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/freemarker/addRant.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/freemarker/home.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/addRant.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/motoristConfirmation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/motoristDetailForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/motoristVehicleForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/rantAdded.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/rantzTemplate.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/vehicleRants.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/roadrantz-tiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/stateSelection.tag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/validation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/validator-rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/velocity/addRant.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/velocity/home.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/velocity/vehicleRants.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/grgrad.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/rantz-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/rantz-tx-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/rantz-tx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/traffic-strip2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/traffic-strip3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2nOGideOvDIDrBqBYqfrPTOng3b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.roadrentz [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/roadrentz/src/main/webapp/WEB-INF&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\roadrentz\src\main\webapp\WEB-INF" />
+      <recent name="D:\roadrentz\src\main\webapp" />
+      <recent name="D:\roadrentz\src\main\java" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7de1b7d4-f703-41ca-a33c-fcb54e62c8fa" name="Changes" comment="" />
+      <created>1728828045093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728828045093</updated>
+      <workItem from="1728828047278" duration="3374000" />
+      <workItem from="1728836844840" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
